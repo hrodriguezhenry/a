@@ -2,8 +2,8 @@
 
 using namespace std;
 
-void pdhrodriguezhenry(){
-	cout <<"Me llamo henry personal";
+void pdjavier(){
+	cout <<"Me llamo Javier personal";
 }
 
 
